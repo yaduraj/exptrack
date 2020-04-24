@@ -1,0 +1,23 @@
+.card {
+    margin-left: 200px;
+    height: 350px;
+    width: 350px;
+    border-left: 1px solid #88888894;
+    border: 1px solid #88888894;
+    box-shadow: 5px 5px 5px #88888894;
+    margin-top: 200px;
+}
+
+.input-field {
+    margin-top: 100px;
+    margin-left: 40px;
+    width: 200px;
+    border: 0px;
+    border-bottom: 1px solid;
+    outline: none;
+}
+
+#header{
+    font-size: 60px;
+    text-align: center;
+}
